@@ -10,11 +10,13 @@ using System.Windows.Forms;
 
 namespace pj_w2_labColecciones
 {
-    public partial class Form1 : Form
+    public partial class FrmMantenimientoPostulantes : Form
     {
-        public Form1()
+        public FrmMantenimientoPostulantes()
         {
             InitializeComponent();
         }
+
+       
     }
 }
